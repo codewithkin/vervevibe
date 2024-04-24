@@ -270,6 +270,13 @@ img, video {
   line-height: 1.75rem;
 }
 
+@media (width >= 640px) {
+  .heading {
+    font-size: 1.5rem;
+    line-height: 2rem;
+  }
+}
+
 @media (width >= 768px) {
   .heading {
     font-size: 1.875rem;
@@ -292,12 +299,20 @@ img, video {
   display: flex;
 }
 
+.h-10 {
+  height: 2.5rem;
+}
+
 .h-6 {
   height: 1.5rem;
 }
 
 .h-\[400px\] {
   height: 400px;
+}
+
+.w-10 {
+  width: 2.5rem;
 }
 
 .w-6 {
@@ -466,6 +481,31 @@ img, video {
 }
 
 @media (width >= 640px) {
+  .sm\:mb-4 {
+    margin-bottom: 1rem;
+  }
+
+  .sm\:mt-2 {
+    margin-top: .5rem;
+  }
+
+  .sm\:flex {
+    display: flex;
+  }
+
+  .sm\:w-\[520px\] {
+    width: 520px;
+  }
+
+  .sm\:gap-4 {
+    gap: 1rem;
+  }
+
+  .sm\:py-24 {
+    padding-top: 6rem;
+    padding-bottom: 6rem;
+  }
+
   .sm\:text-6xl {
     font-size: 3.75rem;
     line-height: 1;
@@ -473,20 +513,8 @@ img, video {
 }
 
 @media (width >= 768px) {
-  .md\:mb-4 {
-    margin-bottom: 1rem;
-  }
-
-  .md\:mt-2 {
-    margin-top: .5rem;
-  }
-
-  .md\:flex {
-    display: flex;
-  }
-
-  .md\:gap-4 {
-    gap: 1rem;
+  .md\:w-10 {
+    width: 2.5rem;
   }
 
   .md\:px-14 {
@@ -530,10 +558,6 @@ img, video {
     width: 350px;
   }
 
-  .lg\:w-\[500px\] {
-    width: 500px;
-  }
-
   .lg\:items-center {
     align-items: center;
   }
@@ -573,11 +597,6 @@ img, video {
   .lg\:text-7xl {
     font-size: 4.5rem;
     line-height: 1;
-  }
-
-  .lg\:text-lg {
-    font-size: 1.125rem;
-    line-height: 1.75rem;
   }
 }
 
