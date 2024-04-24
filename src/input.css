@@ -12,10 +12,6 @@
 	}
 
 	.heading {
-		@apply lg:font-semibold
-	}
-
-	.heading-desktop {
-		@apply lg:text-2xl heading
+		@apply font-semibold lg:text-3xl md:text-3xl text-xl
 	}
 }

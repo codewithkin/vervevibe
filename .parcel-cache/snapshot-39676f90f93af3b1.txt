@@ -1,4 +1,10 @@
-8057
+8063
+74/home/kinzinzombe/Desktop/projects/templates/vervevibe/src/assets/room.jpg1713990647505925726 0
+76/home/kinzinzombe/Desktop/projects/templates/vervevibe/src/assets/picnic.jpg1713991557381291723 0
+81/home/kinzinzombe/Desktop/projects/templates/vervevibe/src/assets/cliffhanger.jpg1713991661179864239 0
+65/home/kinzinzombe/Desktop/projects/templates/vervevibe/src/assets1713993076680595915 1
+77/home/kinzinzombe/Desktop/projects/templates/vervevibe/dist/room.9f542b6e.jpg1713990680487132452 0
+65/home/kinzinzombe/Desktop/projects/templates/vervevibe/.gitignore1713989312941522262 0
 59/home/kinzinzombe/Desktop/projects/templates/vervevibe/dist1713986264595062413 1
 125/home/kinzinzombe/Desktop/projects/templates/vervevibe/node_modules/.pnpm/minimatch@9.0.4/node_modules/minimatch/package.json1713872237630076170 0
 147/home/kinzinzombe/Desktop/projects/templates/vervevibe/node_modules/.pnpm/minimatch@9.0.4/node_modules/minimatch/dist/esm/assert-valid-pattern.d.ts1708003407971257441 0
@@ -2072,7 +2078,7 @@
 205/home/kinzinzombe/Desktop/projects/templates/vervevibe/node_modules/.pnpm/@parcel+runtime-js@2.12.0_@parcel+core@2.12.0_@swc+helpers@0.5.10__@swc+helpers@0.5.10/node_modules/@parcel/runtime-js/package.json1713872947631299334 0
 153/home/kinzinzombe/Desktop/projects/templates/vervevibe/node_modules/.pnpm/caniuse-lite@1.0.30001612/node_modules/caniuse-lite/data/features/fullscreen.js1713873594383297717 0
 157/home/kinzinzombe/Desktop/projects/templates/vervevibe/node_modules/.pnpm/@parcel+utils@2.12.0/node_modules/@parcel/utils/test/input/sourcemap/source-root.js1713872450763836939 0
-68/home/kinzinzombe/Desktop/projects/templates/vervevibe/src/style.css1713989233661503432 0
+68/home/kinzinzombe/Desktop/projects/templates/vervevibe/src/style.css1713995141813182919 0
 116/home/kinzinzombe/Desktop/projects/templates/vervevibe/node_modules/.pnpm/jiti@1.21.0/node_modules/jiti/package.json1708003369975203553 0
 210/home/kinzinzombe/Desktop/projects/templates/vervevibe/node_modules/.pnpm/@parcel+runtime-browser-hmr@2.12.0_@parcel+core@2.12.0_@swc+helpers@0.5.10__@swc+helpers@0.5.10/node_modules/@parcel/runtime-browser-hmr1713873339994198519 1
 102/home/kinzinzombe/Desktop/projects/templates/vervevibe/node_modules/.pnpm/svgo@2.8.0/node_modules/csso1713873338250354523 0
@@ -2600,7 +2606,7 @@
 141/home/kinzinzombe/Desktop/projects/templates/vervevibe/node_modules/.pnpm/@swc+helpers@0.5.10/node_modules/@swc/helpers/cjs/_create_class.cjs1708003003680142893 0
 129/home/kinzinzombe/Desktop/projects/templates/vervevibe/node_modules/.pnpm/any-promise@1.3.0/node_modules/any-promise/package.json1708003279750912222 0
 133/home/kinzinzombe/Desktop/projects/templates/vervevibe/node_modules/.pnpm/tailwindcss@3.4.3/node_modules/tailwindcss/types/index.d.ts1708003400639249970 0
-68/home/kinzinzombe/Desktop/projects/templates/vervevibe/src/input.css1713989226777207850 0
+68/home/kinzinzombe/Desktop/projects/templates/vervevibe/src/input.css1713995110267618743 0
 141/home/kinzinzombe/Desktop/projects/templates/vervevibe/node_modules/.pnpm/@swc+helpers@0.5.10/node_modules/@swc/helpers/_/_using/package.json1708003003740143885 0
 145/home/kinzinzombe/Desktop/projects/templates/vervevibe/node_modules/.pnpm/htmlnano@2.1.0_postcss@8.4.38_srcset@4.0.0_svgo@2.8.0/node_modules/svgo1713873338242355239 0
 130/home/kinzinzombe/Desktop/projects/templates/vervevibe/node_modules/.pnpm/browserslist@4.23.0/node_modules/browserslist/browser.js1708006373904871845 0
@@ -7950,7 +7956,7 @@
 198/home/kinzinzombe/Desktop/projects/templates/vervevibe/node_modules/.pnpm/@parcel+runtime-react-refresh@2.12.0_@parcel+core@2.12.0_@swc+helpers@0.5.10__@swc+helpers@0.5.10/node_modules/react-refresh1713873338262353448 0
 121/home/kinzinzombe/Desktop/projects/templates/vervevibe/node_modules/.pnpm/yaml@2.4.1/node_modules/yaml/dist/schema/common1713881349585707190 1
 122/home/kinzinzombe/Desktop/projects/templates/vervevibe/node_modules/.pnpm/path-scurry@1.10.2/node_modules/path-scurry/dist1713881349841776603 1
-69/home/kinzinzombe/Desktop/projects/templates/vervevibe/src/index.html1713989266768978727 0
+69/home/kinzinzombe/Desktop/projects/templates/vervevibe/src/index.html1713995141545169649 0
 214/home/kinzinzombe/Desktop/projects/templates/vervevibe/node_modules/.pnpm/@parcel+runtime-react-refresh@2.12.0_@parcel+core@2.12.0_@swc+helpers@0.5.10__@swc+helpers@0.5.10/node_modules/@parcel/runtime-react-refresh1713873340002197804 1
 218/home/kinzinzombe/Desktop/projects/templates/vervevibe/node_modules/.pnpm/@parcel+runtime-react-refresh@2.12.0_@parcel+core@2.12.0_@swc+helpers@0.5.10__@swc+helpers@0.5.10/node_modules/@parcel/runtime-react-refresh/src1713873340002197804 1
 241/home/kinzinzombe/Desktop/projects/templates/vervevibe/node_modules/.pnpm/@parcel+runtime-react-refresh@2.12.0_@parcel+core@2.12.0_@swc+helpers@0.5.10__@swc+helpers@0.5.10/node_modules/@parcel/runtime-react-refresh/lib/ReactRefreshRuntime.js1713872947747271660 0
