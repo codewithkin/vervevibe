@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+	.brand {
+		@apply text-2xl text-gray-700 font-bold font-inter
+	}
+
+	.link {
+		@apply font-medium text-lg
+	}
+
+	.heading {
+		@apply lg:font-semibold
+	}
+
+	.heading-desktop {
+		@apply lg:text-2xl heading
+	}
+}
