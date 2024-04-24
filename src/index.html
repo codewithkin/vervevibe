@@ -43,21 +43,21 @@ class="font-inter"
 	class="px-4 md:px-20 lg:px-40"
 	>
 		<header
-		class="lg:py-40 md:px-14 md:py-32 sm:py-24 flex flex-col justify-center items-center text-center"
+		class="lg:py-40 md:px-14 md:py-32 sm:py-24 mt-20 flex flex-col justify-center items-center text-center"
 		>
 			<p class="text-gray-600 font-light text-center">Get ready to</p>
 			<!-- Main Header Text -->
-			<h2 class="lg:text-7xl capitalize font-medium text-center leading-10 sm:text-6xl">
+			<h2 x-transition class="lg:text-7xl capitalize font-medium text-center leading-[4rem] sm:leading-10 text-6xl sm:text-6xl">
 				Shape your lifestyle, <br />
 				own <span class="px-4 bg-purple-500 rounded-lg text-white">your vibe</span>
 			</h2>
 			<p 
-			class="text-gray-500 lg:w-[350px] xl:w-[600px] sm:w-[520px] text-center lg:mt-4 lg:mb-8 sm:mt-2 sm:mb-4">
+			class="text-gray-500 lg:w-[350px] xl:w-[600px] sm:w-[520px] text-center lg:mt-4 lg:mb-8 mt-2 mb-4">
 				Dive into a world where expression reigns supreme. From fashion to travel, wellness to culture, we're here to inspire and empower you.
 			</p>
 
 			<!-- Call to Action -->
-			<article class="sm:flex sm:gap-4 items-center justify-center">
+			<article class="sm:flex grid gap-2 sm:gap-4 items-center justify-center">
 				<a 
 				class="flex font-medium rounded-lg gap-2 items-center text-white bg-black px-12 py-4" 
 				href="#">
@@ -115,7 +115,9 @@ x-data="{
         }
     }
 }"
-id="about">
+id="about"
+class="my-32"
+>
 <h2 class="heading text-center">
     What is VerveVibe ?
 </h2>
@@ -154,7 +156,54 @@ id="about">
 </section>
 	</section>
 
+	<section
+	class="grid md:grid-cols-2 gap-4 md:my-32 my-32 xl:my-40"
+	>
+		<!-- Images -->
+		<article class="grid md:grid-cols-2 gap-4">
+			<!-- Full images -->
+			<img 
+			src="https://images.unsplash.com/photo-1613909671501-f9678ffc1d33?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8RmFzaGlvbiUyMHNob3d8ZW58MHx8MHx8fDA%3D"
+			class="w-full md:h-full rounded-xl"
+			>
 
+			<!-- Half images -->
+			<article
+			class="grid-cols-2 md:grid-cols-1 grid md:grid-rows-2 gap-4"
+			>
+				<img 
+				src="https://images.unsplash.com/photo-1556905055-8f358a7a47b2?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8Q2xvdGhlc3xlbnwwfHwwfHx8MA%3D%3D"
+				class="rounded-xl"
+				>
+
+				<a href="#" class="text-black font-semibold relative h-full w-full">
+					<img 
+						src="https://images.unsplash.com/photo-1554302384-05e2ba3e2054?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8TWFnYXppbmV8ZW58MHx8MHx8fDA%3D"
+						class="absolute top-0 bottom-0 left-0 right-0 rounded-xl z-2"
+					>
+						<p class="z-10">
+							See more
+						</p>
+				</a>
+			</article>
+		</article>
+
+		<article class="grid h-full justify-center">
+			<article class="flex flex-col justify-center">
+				<h2 class="heading">Fashion forward</h2>
+				<p class="text-gray-600 mb-8">
+					Dive into the latest trends and style tips to elevate your wardobe game.
+				</p>
+				<article>
+					<a 
+					class="bg-black rounded-xl text-white font-medium px-12 py-4 hover:bg-slate-600 transition duration-500"
+					href="#">
+						Check it out
+					</a>
+				</article>
+			</article>
+		</article>
+	</section>
 	</main>
 	<footer>
 	</footer>
