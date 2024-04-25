@@ -1,6 +1,6 @@
 8063
 77/home/kinzinzombe/Desktop/projects/templates/vervevibe/dist/room.9f542b6e.jpg1713991511777517671 0
-59/home/kinzinzombe/Desktop/projects/templates/vervevibe/dist1713995666794813409 1
+59/home/kinzinzombe/Desktop/projects/templates/vervevibe/dist1714000191157743914 1
 125/home/kinzinzombe/Desktop/projects/templates/vervevibe/node_modules/.pnpm/minimatch@9.0.4/node_modules/minimatch/package.json1713872237630076170 0
 147/home/kinzinzombe/Desktop/projects/templates/vervevibe/node_modules/.pnpm/minimatch@9.0.4/node_modules/minimatch/dist/esm/assert-valid-pattern.d.ts1708003407971257441 0
 145/home/kinzinzombe/Desktop/projects/templates/vervevibe/node_modules/.pnpm/minimatch@9.0.4/node_modules/minimatch/dist/esm/assert-valid-pattern.js1708003407963257433 0
@@ -1237,7 +1237,7 @@
 149/home/kinzinzombe/Desktop/projects/templates/vervevibe/node_modules/.pnpm/ts-interface-checker@0.1.13/node_modules/ts-interface-checker/dist/index.js1708003391555238802 0
 149/home/kinzinzombe/Desktop/projects/templates/vervevibe/node_modules/.pnpm/ts-interface-checker@0.1.13/node_modules/ts-interface-checker/dist/types.js1708003391555238802 0
 148/home/kinzinzombe/Desktop/projects/templates/vervevibe/node_modules/.pnpm/ts-interface-checker@0.1.13/node_modules/ts-interface-checker/dist/util.js1708003391555238802 0
-81/home/kinzinzombe/Desktop/projects/templates/vervevibe/dist/vervevibe.59712999.js1713995666766812052 0
+81/home/kinzinzombe/Desktop/projects/templates/vervevibe/dist/vervevibe.59712999.js1714000160463660684 0
 151/home/kinzinzombe/Desktop/projects/templates/vervevibe/node_modules/.pnpm/ts-interface-checker@0.1.13/node_modules/ts-interface-checker/dist/types.d.ts1708003391555238802 0
 140/home/kinzinzombe/Desktop/projects/templates/vervevibe/node_modules/.pnpm/ts-interface-checker@0.1.13/node_modules/ts-interface-checker/dist1713881349853779857 1
 145/home/kinzinzombe/Desktop/projects/templates/vervevibe/node_modules/.pnpm/ts-interface-checker@0.1.13/node_modules/ts-interface-checker/README.md1708003391551238797 0
@@ -2034,7 +2034,7 @@
 118/home/kinzinzombe/Desktop/projects/templates/vervevibe/node_modules/.pnpm/fill-range@7.0.1/node_modules/to-regex-range1713873338282351658 0
 192/home/kinzinzombe/Desktop/projects/templates/vervevibe/node_modules/.pnpm/@parcel+optimizer-svgo@2.12.0_@parcel+core@2.12.0_@swc+helpers@0.5.10__@swc+helpers@0.5.10/node_modules/@parcel/plugin1713873338250354523 0
 220/home/kinzinzombe/Desktop/projects/templates/vervevibe/node_modules/.pnpm/@parcel+transformer-babel@2.12.0_@parcel+core@2.12.0_@swc+helpers@0.5.10__@swc+helpers@0.5.10/node_modules/@parcel/transformer-babel/lib/config.js1713872957684938403 0
-82/home/kinzinzombe/Desktop/projects/templates/vervevibe/dist/index.2cdaf7bc.css.map1713995666794813409 0
+82/home/kinzinzombe/Desktop/projects/templates/vervevibe/dist/index.2cdaf7bc.css.map1714000160027688877 0
 137/home/kinzinzombe/Desktop/projects/templates/vervevibe/node_modules/.pnpm/postcss-load-config@4.0.2_postcss@8.4.38/node_modules/lilconfig1713881349321635607 0
 216/home/kinzinzombe/Desktop/projects/templates/vervevibe/node_modules/.pnpm/@parcel+transformer-babel@2.12.0_@parcel+core@2.12.0_@swc+helpers@0.5.10__@swc+helpers@0.5.10/node_modules/@parcel/transformer-babel/README.md1713872957848900476 0
 125/home/kinzinzombe/Desktop/projects/templates/vervevibe/node_modules/.pnpm/wrap-ansi@8.1.0/node_modules/wrap-ansi/package.json1708003411451260505 0
@@ -2073,7 +2073,7 @@
 205/home/kinzinzombe/Desktop/projects/templates/vervevibe/node_modules/.pnpm/@parcel+runtime-js@2.12.0_@parcel+core@2.12.0_@swc+helpers@0.5.10__@swc+helpers@0.5.10/node_modules/@parcel/runtime-js/package.json1713872947631299334 0
 153/home/kinzinzombe/Desktop/projects/templates/vervevibe/node_modules/.pnpm/caniuse-lite@1.0.30001612/node_modules/caniuse-lite/data/features/fullscreen.js1713873594383297717 0
 157/home/kinzinzombe/Desktop/projects/templates/vervevibe/node_modules/.pnpm/@parcel+utils@2.12.0/node_modules/@parcel/utils/test/input/sourcemap/source-root.js1713872450763836939 0
-68/home/kinzinzombe/Desktop/projects/templates/vervevibe/src/style.css1713999996544801791 0
+68/home/kinzinzombe/Desktop/projects/templates/vervevibe/src/style.css1714021939303449265 0
 116/home/kinzinzombe/Desktop/projects/templates/vervevibe/node_modules/.pnpm/jiti@1.21.0/node_modules/jiti/package.json1708003369975203553 0
 210/home/kinzinzombe/Desktop/projects/templates/vervevibe/node_modules/.pnpm/@parcel+runtime-browser-hmr@2.12.0_@parcel+core@2.12.0_@swc+helpers@0.5.10__@swc+helpers@0.5.10/node_modules/@parcel/runtime-browser-hmr1713873339994198519 1
 102/home/kinzinzombe/Desktop/projects/templates/vervevibe/node_modules/.pnpm/svgo@2.8.0/node_modules/csso1713873338250354523 0
@@ -3040,7 +3040,7 @@
 132/home/kinzinzombe/Desktop/projects/templates/vervevibe/node_modules/.pnpm/source-map@0.6.1/node_modules/source-map/lib/quick-sort.js1708003168370181214 0
 128/home/kinzinzombe/Desktop/projects/templates/vervevibe/node_modules/.pnpm/svgo@2.8.0/node_modules/svgo/plugins/removeComments.js1713873356564740132 0
 152/home/kinzinzombe/Desktop/projects/templates/vervevibe/node_modules/.pnpm/@swc+helpers@0.5.10/node_modules/@swc/helpers/_/_array_with_holes/package.json1708003003720143554 0
-78/home/kinzinzombe/Desktop/projects/templates/vervevibe/dist/index.2cdaf7bc.css1713995666770812246 0
+78/home/kinzinzombe/Desktop/projects/templates/vervevibe/dist/index.2cdaf7bc.css1714000160011689911 0
 155/home/kinzinzombe/Desktop/projects/templates/vervevibe/node_modules/.pnpm/parcel@2.12.0_@swc+helpers@0.5.10_postcss@8.4.38_srcset@4.0.0/node_modules/parcel1713873761829339590 1
 175/home/kinzinzombe/Desktop/projects/templates/vervevibe/node_modules/.pnpm/@parcel+core@2.12.0_@swc+helpers@0.5.10/node_modules/@parcel/core/lib/requests/ParcelConfigRequest.js1713872465527474694 0
 92/home/kinzinzombe/Desktop/projects/templates/vervevibe/node_modules/.pnpm/string-width@4.2.31713881349297629100 1
@@ -5655,7 +5655,7 @@
 102/home/kinzinzombe/Desktop/projects/templates/vervevibe/node_modules/.pnpm/@lezer+lr@1.4.0/node_modules1713873338262353448 1
 240/home/kinzinzombe/Desktop/projects/templates/vervevibe/node_modules/.pnpm/@parcel+package-manager@2.12.0_@parcel+core@2.12.0_@swc+helpers@0.5.10__@swc+helpers@0.5.10/node_modules/@parcel/package-manager/test/getCurrentPackageManager.test.js1713872466883441751 0
 122/home/kinzinzombe/Desktop/projects/templates/vervevibe/node_modules/.pnpm/@lezer+lr@1.4.0/node_modules/@lezer/lr/README.md1713873104245460101 0
-85/home/kinzinzombe/Desktop/projects/templates/vervevibe/dist/vervevibe.59712999.js.map1713995666794813409 0
+85/home/kinzinzombe/Desktop/projects/templates/vervevibe/dist/vervevibe.59712999.js.map1714000160483659391 0
 90/home/kinzinzombe/Desktop/projects/templates/vervevibe/node_modules/.pnpm/color-name@1.1.41713873179067159692 1
 127/home/kinzinzombe/Desktop/projects/templates/vervevibe/node_modules/.pnpm/@lezer+lr@1.4.0/node_modules/@lezer/lr/dist/index.cjs1713873102409738681 0
 132/home/kinzinzombe/Desktop/projects/templates/vervevibe/node_modules/.pnpm/@lezer+lr@1.4.0/node_modules/@lezer/lr/dist/constants.d.ts1713873104541415331 0
@@ -6622,7 +6622,7 @@
 240/home/kinzinzombe/Desktop/projects/templates/vervevibe/node_modules/.pnpm/@parcel+transformer-react-refresh-wrap@2.12.0_@parcel+core@2.12.0_@swc+helpers@0.5.10__@swc+helpers@0.5.10/node_modules/@parcel/transformer-react-refresh-wrap/LICENSE1713872422500549868 0
 192/home/kinzinzombe/Desktop/projects/templates/vervevibe/node_modules/.pnpm/@parcel+transformer-posthtml@2.12.0_@parcel+core@2.12.0_@swc+helpers@0.5.10__@swc+helpers@0.5.10/node_modules/posthtml1713873338274352374 0
 191/home/kinzinzombe/Desktop/projects/templates/vervevibe/node_modules/.pnpm/@parcel+transformer-posthtml@2.12.0_@parcel+core@2.12.0_@swc+helpers@0.5.10__@swc+helpers@0.5.10/node_modules/@parcel1713873340010197090 1
-70/home/kinzinzombe/Desktop/projects/templates/vervevibe/dist/index.html1713995666270788010 0
+70/home/kinzinzombe/Desktop/projects/templates/vervevibe/dist/index.html1714000191157743914 0
 231/home/kinzinzombe/Desktop/projects/templates/vervevibe/node_modules/.pnpm/@parcel+transformer-posthtml@2.12.0_@parcel+core@2.12.0_@swc+helpers@0.5.10__@swc+helpers@0.5.10/node_modules/@parcel/transformer-posthtml/src/loadPlugins.js1713873035024997961 0
 98/home/kinzinzombe/Desktop/projects/templates/vervevibe/node_modules/.pnpm/node_modules/cosmiconfig1713881350029827589 0
 172/home/kinzinzombe/Desktop/projects/templates/vervevibe/node_modules/.pnpm/htmlnano@2.1.0_postcss@8.4.38_srcset@4.0.0_svgo@2.8.0/node_modules/htmlnano/node_modules/.bin/svgo1713873762169320475 0
@@ -7957,7 +7957,7 @@
 198/home/kinzinzombe/Desktop/projects/templates/vervevibe/node_modules/.pnpm/@parcel+runtime-react-refresh@2.12.0_@parcel+core@2.12.0_@swc+helpers@0.5.10__@swc+helpers@0.5.10/node_modules/react-refresh1713873338262353448 0
 121/home/kinzinzombe/Desktop/projects/templates/vervevibe/node_modules/.pnpm/yaml@2.4.1/node_modules/yaml/dist/schema/common1713881349585707190 1
 122/home/kinzinzombe/Desktop/projects/templates/vervevibe/node_modules/.pnpm/path-scurry@1.10.2/node_modules/path-scurry/dist1713881349841776603 1
-69/home/kinzinzombe/Desktop/projects/templates/vervevibe/src/index.html1714000188693892920 0
+69/home/kinzinzombe/Desktop/projects/templates/vervevibe/src/index.html1714021936827785695 0
 214/home/kinzinzombe/Desktop/projects/templates/vervevibe/node_modules/.pnpm/@parcel+runtime-react-refresh@2.12.0_@parcel+core@2.12.0_@swc+helpers@0.5.10__@swc+helpers@0.5.10/node_modules/@parcel/runtime-react-refresh1713873340002197804 1
 218/home/kinzinzombe/Desktop/projects/templates/vervevibe/node_modules/.pnpm/@parcel+runtime-react-refresh@2.12.0_@parcel+core@2.12.0_@swc+helpers@0.5.10__@swc+helpers@0.5.10/node_modules/@parcel/runtime-react-refresh/src1713873340002197804 1
 241/home/kinzinzombe/Desktop/projects/templates/vervevibe/node_modules/.pnpm/@parcel+runtime-react-refresh@2.12.0_@parcel+core@2.12.0_@swc+helpers@0.5.10__@swc+helpers@0.5.10/node_modules/@parcel/runtime-react-refresh/lib/ReactRefreshRuntime.js1713872947747271660 0
