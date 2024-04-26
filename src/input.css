@@ -3,15 +3,17 @@
 @tailwind utilities;
 
 @layer components {
-	.brand {
-		@apply text-2xl text-gray-700 font-bold font-inter
-	}
+	
 
 	.link {
 		@apply font-medium text-lg
 	}
 
 	.heading {
-		@apply font-semibold sm:text-2xl lg:text-3xl md:text-3xl text-xl
+		@apply font-semibold text-2xl lg:text-3xl md:text-3xl text-xl
+	}
+
+	.brand {
+		@apply text-2xl text-gray-700 font-bold font-inter
 	}
 }
